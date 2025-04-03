@@ -1,4 +1,3 @@
-
 //program should not be empty:  QUEUE
 
 //queue is empty if the rear is less than front 
